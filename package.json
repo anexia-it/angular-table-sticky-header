@@ -1,0 +1,44 @@
+{
+  "name": "angular-table-sticky-header",
+  "version": "0.8.0",
+  "description": "A directive that keeps thead and tfoot sections in tables always visible.",
+  "main": "dist/ngtablestickyheader.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anx-astocker/angular-table-sticky-header.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "angular",
+    "sticky",
+    "header",
+    "table"
+  ],
+  "author": "Andreas Stocker <AStocker@anexia-it.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-convert-newline": "0.0.3",
+    "gulp-module-wrapper": "^0.3.6",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "gulp-sass": "^2.3.0",
+    "jsdoc": "^3.4.3",
+    "license-checker": "^8.0.4",
+    "lodash": "^4.17.4",
+    "simple-jsdoc": "0.0.4"
+  }
+}
